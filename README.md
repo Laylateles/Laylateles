@@ -2,27 +2,65 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&color=FF007F&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+a+Layla+Victória!;Computer+Engineering+Student+🚀" />
 </h1>
 
-## 🌸 Sobre mim
+
+
+
+## 💁🏼‍♀️ A Desenvolvedora por Trás do Código
+
+<table>
+<tr>
+<td width="55%">
+
+### 🎯 Quick Stats
 
 ```javascript
 const layla = {
-    name: "Layla Vitória",
-    role: "Computer Engineering Student",
-    university: "INATEL - Instituto Nacional de Telecomunicações",
-    research: "Artificial Intelligence & Computer Vision",
-    personality: ["Creative", "Determined", "Detail-Oriented", "Soft but Strong"],
-    currentFocus: "Building intelligent systems that make impact ",
-    lifePhilosophy: () => {
-        return "Code with elegance. Build with purpose. Learn endlessly.";
+    nome: "Layla Vitória",
+    curso: "Engenharia de Computação",
+    universidade: "INATEL",
+    foco: "Inteligência Artificial & Sistemas Inteligentes",
+
+    rotinaDiaria: {
+        cafe: "☕☕☕",
+        codigo: "Elegante e Organizado",
+        bugs: "Transformados em aprendizado",
+        commits: "Consistentes e bem documentados"
+    },
+
+    mentalidade: [
+        "💡 Inovação em primeiro lugar",
+        "🎯 Foco e disciplina",
+        "🚀 Evolução constante"
+    ],
+
+    missaoAtual: () => {
+        return "Construindo o futuro com tecnologia.";
     }
 };
 ```
 
----
+</td>
+
+<td width="45%">
+
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/female-programmer-working-on-laptop-5264973-4397894.png" width="100%"/>
+
+<br><br>
+
+### 🎓 Learning Journey
+
+<p>
+  <img src="https://img.shields.io/badge/IA-Aprendendo-ff007f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-Explorando-d84d78?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-Crescendo-f17ea1?style=for-the-badge"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 
-
-## 👨‍💻 Universo Tech
+## 👩🏻‍💻 Universo Tech
 
 ### 💻 Linguagens principais
 <p>
@@ -47,22 +85,28 @@ const layla = {
 
 ---
 
-## 💗 Estátisticas do Github
+## 📊 Estátisticas do Github
 
 
 
 
-
-## 🌷 Conecte-se comigo
-
-<p align="center">
-  <a href="SEU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-e6197f?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+  ## 📲 Conecte-se comigo
+  <a href="https://www.linkedin.com/in/layla-vict%C3%B3ria-711175268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/Email-ff007f?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="e-mail:layla.sousa@gec.inatel.br">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
+  
+
+  ---
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=30&fontAlignY=45&fontColor=ffffff" width="100%"/>
+
+</div>
+
+
 
 
 
