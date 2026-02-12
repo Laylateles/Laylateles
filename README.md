@@ -44,7 +44,7 @@ const layla = {
 
 <td width="45%">
 
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/female-programmer-working-on-laptop-5264973-4397894.png" width="100%"/>
+<img src="https://github.com/user-attachments/assets/93260ff5-eeaa-466e-99ac-205db644407e" width="100%"/>
 
 <br><br>
 
