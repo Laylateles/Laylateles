@@ -1,6 +1,4 @@
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3E60&center=true&vCenter=true&width=435&lines=Ol%C3%A1+eu+sou+a+Layla%2C+muito+prazer!" alt="Typing SVG" /></a>
-
- <h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&color=FF007F&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+a+Layla+Vitória+💖;Engineering+Mind+%7C+Creative+Heart+🌷;Computer+Engineering+Student+🚀" />
 </h1>
 
