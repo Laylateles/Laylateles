@@ -101,7 +101,9 @@ const layla = {
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=e6197f" alt="Email">
   </a>
 </div>
-<br><br>
+
+<hr>
+
 <div>
    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=30&fontAlignY=45&fontColor=ffffff" width="100%"/>
 </div>
