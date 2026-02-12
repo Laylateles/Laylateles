@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&color=FF007F&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+a+Layla+Vitória;Computer+Engineering+Student+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&color=FF007F&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+a+Layla+Victória!;Computer+Engineering+Student+🚀" />
 </h1>
 
 <p align="center">
