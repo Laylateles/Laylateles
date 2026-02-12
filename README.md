@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&color=FF007F&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+a+Layla+Vitória+💖;Engineering+Mind+%7C+Creative+Heart+🌷;Computer+Engineering+Student+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&color=FF007F&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+a+Layla+Vitória;Computer+Engineering+Student+🚀" />
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@ const layla = {
     university: "INATEL - Instituto Nacional de Telecomunicações",
     research: "Artificial Intelligence & Computer Vision",
     personality: ["Creative", "Determined", "Detail-Oriented", "Soft but Strong"],
-    currentFocus: "Building intelligent systems that make impact 💗",
+    currentFocus: "Building intelligent systems that make impact ",
     lifePhilosophy: () => {
         return "Code with elegance. Build with purpose. Learn endlessly.";
     }
