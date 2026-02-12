@@ -33,7 +33,7 @@ const layla = {
 
 ### 💻 Core Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,java" />
 </p>
 
 ---
@@ -49,7 +49,7 @@ const layla = {
 
 ### ⚙️ Tools & Development
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,falcon,pycharm" />
 </p>
 
 ---
