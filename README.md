@@ -87,7 +87,7 @@ const layla = {
 
 ## 📊 Estátisticas do Github
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laylateles&currStreakNum=d84d78&sideNums=d84d78&currStreakLabel=d84d78&fire=d84d78&bg_color=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laylateles&sideLabels=ffffff&currStreakNum=d84d78&sideNums=d84d78&currStreakLabel=d84d78&background=00000000&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
