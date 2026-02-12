@@ -3,8 +3,6 @@
 </h1>
 
 
-
-
 ## 💁🏼‍♀️ A Desenvolvedora por Trás do Código
 
 <table>
@@ -15,7 +13,7 @@
 
 ```javascript
 const layla = {
-    nome: "Layla Vitória",
+    nome: "Layla Victória",
     curso: "Engenharia de Computação",
     universidade: "INATEL",
     foco: "Inteligência Artificial & Sistemas Inteligentes",
@@ -27,11 +25,11 @@ const layla = {
         commits: "Consistentes e bem documentados"
     },
 
-    mentalidade: [
+    mentalidade: {
         "💡 Inovação em primeiro lugar",
         "🎯 Foco e disciplina",
         "🚀 Evolução constante"
-    ],
+    },
 
     missaoAtual: () => {
         return "Construindo o futuro com tecnologia.";
@@ -105,7 +103,7 @@ const layla = {
 <hr>
 
 <div>
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=30&fontAlignY=45&fontColor=ffffff" width="100%"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer&text=Obrigada%20pela%20visita!&fontSize=30&fontAlignY=45&fontColor=ffffff" width="100%"/>
 </div>
 
 
