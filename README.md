@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&color=FF007F&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+a+Layla+Victória!;Computer+Engineering+Student+🚀" />
 </h1>
 
----
-
-## 🌸 About Me
+## 🌸 Sobre mim
 
 ```javascript
 const layla = {
