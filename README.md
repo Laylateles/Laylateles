@@ -20,16 +20,9 @@ const layla = {
 
 ---
 
-## 💖 The Engineer Behind The Code
 
-🌷 Engineering student apaixonada por tecnologia  
-🤖 Pesquisadora em Inteligência Artificial  
-💻 Desenvolvendo soluções inteligentes  
-🎀 Criando tecnologia com sensibilidade e impacto  
 
----
-
-## 🌸 Universo Tech
+## 👨‍💻 Universo Tech
 
 ### 💻 Linguagens principais
 <p>
@@ -49,22 +42,14 @@ const layla = {
 
 ### ⚙️ Ferramentas e desenvolvimento
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,falcon,pycharm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
 </p>
 
 ---
 
 ## 💗 Estátisticas do Github
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laylateles&show_icons=true&theme=radical&title_color=ff007f&icon_color=e6197f&text_color=f17ea1&bg_color=0d1117" />
-</p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laylateles&layout=compact&theme=radical&title_color=ff007f&text_color=f17ea1&bg_color=0d1117" />
-</p>
-
----
 
 
 
