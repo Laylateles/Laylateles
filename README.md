@@ -1,7 +1,10 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&color=FF007F&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+a+Layla+Victória!;Computer+Engineering+Student+🚀" />
 </h1>
+<div align="center">
+  <img src = "https://github.com/user-attachments/assets/c139100b-2452-45f0-922a-7f6ce63be54a"/>
 
+</div>
 
 ## 💁🏼‍♀️ A Desenvolvedora por Trás do Código
 
