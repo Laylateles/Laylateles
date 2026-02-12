@@ -29,9 +29,9 @@ const layla = {
 
 ---
 
-## 🌸 Tech Universe
+## 🌸 Universo Tech
 
-### 💻 Core Languages
+### 💻 Linguagens principais
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,java" />
 </p>
@@ -47,14 +47,14 @@ const layla = {
 
 ---
 
-### ⚙️ Tools & Development
+### ⚙️ Ferramentas e desenvolvimento
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,falcon,pycharm" />
 </p>
 
 ---
 
-## 💗 GitHub Aesthetic Stats
+## 💗 Estátisticas do Github
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laylateles&show_icons=true&theme=radical&title_color=ff007f&icon_color=e6197f&text_color=f17ea1&bg_color=0d1117" />
@@ -66,31 +66,9 @@ const layla = {
 
 ---
 
-## 🌷 Featured Project
 
-### 🌸 Intelligent Detection System
 
-💡 Projeto com foco em Inteligência Artificial  
-🧠 Aplicação de visão computacional  
-⚡ Processamento eficiente  
-🎀 Interface organizada  
-
-**Status:**  
-<img src="https://img.shields.io/badge/In%20Development-ff007f?style=for-the-badge"/>
-
----
-
-## 💖 Mindset
-
-> “Elegância também é escrever código limpo.”
-
-🌸 Always learning  
-🌸 Always evolving  
-🌸 Always building  
-
----
-
-## 🌷 Connect With Me
+## 🌷 Conecte-se comigo
 
 <p align="center">
   <a href="SEU_LINKEDIN_AQUI">
@@ -101,10 +79,5 @@ const layla = {
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
-</p>
 
 
