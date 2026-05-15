@@ -63,7 +63,7 @@ const layla = {
 
 ### 💻 Linguagens principais
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,java" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,java,dart,flutter" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ const layla = {
 
 ### ⚙️ Ferramentas e desenvolvimento
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
 </p>
 
 ---
