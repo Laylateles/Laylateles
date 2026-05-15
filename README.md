@@ -79,7 +79,7 @@ const layla = {
 
 ### ⚙️ Ferramentas e desenvolvimento
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,dart,flutter" />
 </p>
 
 ---
